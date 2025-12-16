@@ -2,21 +2,21 @@
 <h3 align="center">🚀 Passionate Full-Stack Developer from India 🇮🇳</h3>
 
 <p align="center">
-  Building scalable web apps • Learning every day • Solving problems
+  MERN Stack • Problem Solving • Building Real-World Projects
 </p>
 
 ---
 
-### 👨‍💻 About Me
+## 👨‍💻 About Me
 
-- 🔭 Currently building **Uber Clone (Full-Stack Project)**
+- 🔭 Currently working on **Uber Clone (Full-Stack Project)**
 - 🌱 Learning **React.js, Node.js, Express.js & MongoDB**
-- 💡 Interested in **MERN Stack, System Design & DSA**
+- 🧠 Practicing **Data Structures & Algorithms on LeetCode**
 - 🎯 Goal: Become a **skilled Software Engineer**
 
 ---
 
-### 🤝 Connect With Me
+## 🤝 Connect With Me
 
 <p align="left">
   <a href="https://www.linkedin.com/in/ankit-jha-76aa31363/" target="_blank">
@@ -32,38 +32,62 @@
 
 ---
 
-### 🛠️ Languages & Tools
+## 🛠️ Tech Stack
 
-<p align="left">
+### Frontend
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
+</p>
+
+### Backend
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40"/>
+</p>
+
+### Database & Cloud
+<p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/>
   <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="40"/>
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitjha0723&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ankitjha0723&theme=dracula" height="150"/>
+### Programming & Tools
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
 </p>
 
 ---
 
-### ✨ Quote I Believe In
+## 📊 LeetCode Problem Solving Stats
 
-> **"Consistency beats talent when talent doesn’t work consistently."**
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/ankitjha0723?theme=dark&font=Karma&ext=contest" />
+</p>
 
 ---
 
-⭐ *If you like my work, consider giving a star to my repositories!*
+## 🚀 Featured Project
+
+### 🚕 Uber Clone
+- Full-stack ride booking application  
+- Real-time location & authentication  
+- MERN stack based architecture  
+- Clean UI & scalable backend  
+
+*(Project currently under development)*
+
+---
+
+## ✨ What I Believe
+
+> **"Code every day. Improve every day."**
+
+---
+
+⭐ **If you like my work, consider starring my repositories!**
